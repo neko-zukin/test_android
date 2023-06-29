@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         int[] data1 = {1,2,3,4,5};
         int[] data2 = {11,12,13,14,15};
         intent.putExtra(EXTRA_DATA, data1);
-        intent.putExtra(EXTRA_DATA, data2);
+//        intent.putExtra(EXTRA_DATA, data2);
 //        startActivity(intent);
     }
 }
